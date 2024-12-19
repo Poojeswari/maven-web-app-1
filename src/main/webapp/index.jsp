@@ -114,7 +114,7 @@
             <section id="services">
                 <h2>Our Services</h2>
                 <p>
-                    At VLY Lorry Transport Service, we provide a wide range of logistics solutions tailored to your needs:
+                    At pooja Lorry Transport Service, we provide a wide range of logistics solutions tailored to your needs:
                 </p>
                 <ul>
                     <li>Local and long-distance transportation services</li>
