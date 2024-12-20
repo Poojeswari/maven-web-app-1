@@ -150,7 +150,7 @@
                 <ul>
                     <li><strong>Email:</strong> support@vlytransport.com</li>
                     <li><strong>Phone:</strong> +1-800-555-TRANSPORT</li>
-                    <li><strong>Local Contact:</strong> 69319999(Yugandhar Babu)</li>
+                    <li><strong>Local Contact:</strong> 6111119(Yugandhar Babu)</li>
 
                     <li><strong>Address:</strong> 123 Logistics Lane, Transport City, TX</li>
 
