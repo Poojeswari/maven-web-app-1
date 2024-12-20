@@ -155,7 +155,7 @@
                     <li><strong>Address:</strong>Kukatpally near BJP office road</li>
                 </ul>
                 <p>
-                    Our team is available 24/7 to assist you. We look forward to working with you!
+                    Our team is available 24/7 to assist you. We look forward to working with you!all the best.
                 </p>
             </section>
         </main>
