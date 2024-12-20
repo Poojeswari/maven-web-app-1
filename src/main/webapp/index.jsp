@@ -91,7 +91,7 @@
 </head>
 <body>
     <header>
-        <h1>poojeswari Transport Service</h1>
+        <h1>poojeswari Transport Services</h1>
     </header>
     <div class="container">
         <nav>
@@ -106,7 +106,7 @@
             <section id="about-us">
                 <h2>About Us</h2>
                 <p>
-                    Welcome to <strong>pooja Lorry Transport Service</strong>, your trusted partner for reliable and efficient logistics solutions. 
+                    Welcome to <strong>poojeswari Transport Service</strong>, your trusted partner for reliable and efficient logistics solutions. 
                     With years of experience in the transportation industry, we ensure timely and safe delivery of your goods to any destination.
                 </p>
             </section>
