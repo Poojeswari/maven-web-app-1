@@ -91,7 +91,7 @@
 </head>
 <body>
     <header>
-        <h1>pooja Transport Service</h1>
+        <h1>poojeswari Transport Service</h1>
     </header>
     <div class="container">
         <nav>
@@ -114,7 +114,7 @@
             <section id="services">
                 <h2>Our Services</h2>
                 <p>
-                    At poojeswari L Transport Service, we provide a wide range of logistics solutions tailored to your needs:
+                    At poojeswari  Transport Service, we provide a wide range of logistics solutions tailored to your needs:
                 </p>
                 <ul>
                     <li>Local and long-distance transportation services</li>
